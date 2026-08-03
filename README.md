@@ -62,10 +62,8 @@ Assistants that answer questions and search over your own documents, notes, and 
 - [Open WebUI](https://openwebui.com) - Self-hosted AI interface for Ollama and OpenAI-compatible models with built-in RAG over your documents ([source](https://github.com/open-webui/open-webui)) `oss` `selfhost` `local` `free` `ai`.
 - [PrivateGPT](https://github.com/zylon-ai/private-gpt) - Open-source API layer for privately chatting with your documents using local models, with no data leaving your machine `oss` `selfhost` `local` `free` `ai`.
 - [Quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG framework for building assistants that answer questions over your own files and data `oss` `selfhost` `free` `ai`.
-- [Reor](https://github.com/reorproject/reor) - Desktop note app that links related notes and runs AI question-answering and semantic search over them locally `oss` `local` `free` `ai`.
 - [Saga](https://saga.so) - Workspace for notes, docs, and tasks with a built-in AI assistant that can answer across your pages `free` `ai`.
 - [Sider](https://sider.ai) - Browser AI sidebar that chats with the current page, your uploaded PDFs, and saved content across many models `free` `ai` `mobile`.
-- [Verba](https://github.com/weaviate/Verba) - Open-source RAG chatbot from Weaviate for importing your documents and querying them locally or via cloud `oss` `selfhost` `local` `free` `ai`.
 
 ## Note-Taking & PKM Apps
 
@@ -240,7 +238,6 @@ Plugins, publishing tools, and utilities that extend note-taking apps.
 - [Calendar](https://github.com/liamcain/obsidian-calendar-plugin) - Obsidian sidebar calendar for creating and navigating between daily and weekly notes `oss` `local` `free`.
 - [Copilot for Obsidian](https://github.com/logancyang/obsidian-copilot) - AI assistant plugin for Obsidian offering chat, vault search, and commands across LLM providers `oss` `local` `free` `ai`.
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview) - Query language and live views that index Markdown notes and their metadata inside Obsidian `oss` `local` `free`.
-- [Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Jekyll template for publishing Markdown notes as a digital garden with bidirectional links `oss` `selfhost` `free`.
 - [Excalidraw for Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin) - Obsidian plugin for creating and embedding hand-drawn style sketches and diagrams in notes `oss` `local` `free`.
 - [Flowershow](https://flowershow.app/) - Publishes Markdown and Obsidian vaults as websites, self-hosted or through a hosted service ([source](https://github.com/datopian/flowershow)) `oss` `selfhost` `free`.
 - [Obsidian Digital Garden](https://dg-docs.ole.dev/) - Obsidian plugin that publishes selected notes as a self-hosted digital garden website ([source](https://github.com/oleeskild/obsidian-digital-garden)) `oss` `selfhost` `free`.
