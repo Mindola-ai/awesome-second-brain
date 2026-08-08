@@ -49,6 +49,7 @@ Assistants that answer questions and search over your own documents, notes, and 
 
 - [Amurex](https://www.amurex.ai) - Open-source AI companion that transcribes meetings and searches across your connected knowledge sources ([source](https://github.com/thepersonalaicompany/amurex)) `oss` `selfhost` `free` `ai`.
 - [AnythingLLM](https://anythingllm.com) - Desktop and Docker app for RAG chat and agents over your documents, using local or cloud models ([source](https://github.com/Mintplex-Labs/anything-llm)) `oss` `selfhost` `local` `free` `ai`.
+- [Backscroll](https://backscroll.xyz) - Imports your ChatGPT, Claude, and Gemini history and turns it into a searchable, ask-able memory with hybrid full-text + vector search and cited answers `free` `ai`.
 - [Cheshire Cat AI](https://cheshirecat.ai) - Open-source framework for building AI assistants with long-term memory and retrieval over ingested documents ([source](https://github.com/cheshire-cat-ai/core)) `oss` `selfhost` `free` `ai`.
 - [Elephas](https://elephas.app) - Apple-only AI assistant that builds a searchable brain from your local files and notes for writing and Q&A `local` `paid` `ai` `mobile`.
 - [Google NotebookLM](https://notebooklm.google.com) - Google research tool that grounds chat, summaries, and audio overviews in the sources you upload `free` `ai` `mobile`.
