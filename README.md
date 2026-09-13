@@ -60,6 +60,7 @@ Assistants that answer questions and search over your own documents, notes, and 
 - [Notion AI](https://www.notion.com/product/ai) - AI built into Notion that answers questions and writes using content from your workspace and connected apps `paid` `ai` `mobile`.
 - [Onyx](https://onyx.app) - Open-source AI chat and search that connects to your documents and apps through many data connectors ([source](https://github.com/onyx-dot-app/onyx)) `oss` `selfhost` `free` `ai`.
 - [Open WebUI](https://openwebui.com) - Self-hosted AI interface for Ollama and OpenAI-compatible models with built-in RAG over your documents ([source](https://github.com/open-webui/open-webui)) `oss` `selfhost` `local` `free` `ai`.
+- [PIL](https://github.com/pjpoulose/PIL) - Open-source Muse skill that turns Instagram saved posts into a local, AI-searchable knowledge base queryable via MCP. `oss` `local` `free` `ai` `mobile`.
 - [PrivateGPT](https://github.com/zylon-ai/private-gpt) - Open-source API layer for privately chatting with your documents using local models, with no data leaving your machine `oss` `selfhost` `local` `free` `ai`.
 - [Quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG framework for building assistants that answer questions over your own files and data `oss` `selfhost` `free` `ai`.
 - [Saga](https://saga.so) - Workspace for notes, docs, and tasks with a built-in AI assistant that can answer across your pages `free` `ai`.
