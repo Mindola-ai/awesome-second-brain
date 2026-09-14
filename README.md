@@ -132,6 +132,7 @@ Tools for saving articles, bookmarks, and highlights and resurfacing them later.
 - [Omnivore](https://github.com/omnivore-app/omnivore) - Open-source read-it-later and highlighting app; the hosted service closed in 2024 and the code is self-hostable `oss` `selfhost`.
 - [Pinboard](https://pinboard.in/) - Minimal, privacy-focused bookmarking service with tags and an optional full-text archiving add-on `paid`.
 - [Raindrop.io](https://raindrop.io/) - Bookmark manager that saves links, articles, and media into taggable collections with search and archived copies `free` `mobile`.
+- [ReadGZH](https://readgzh.site/) - Converts public WeChat article links to Markdown through a hosted service for manual import into notes. `oss`
 - [Readwise](https://readwise.io/) - Aggregates highlights from Kindle, articles, and podcasts and resurfaces them with spaced repetition `paid` `mobile`.
 - [Readwise Reader](https://readwise.io/read) - Read-it-later app for articles, newsletters, RSS, PDFs, EPUBs, and videos, with highlighting and AI features `paid` `ai` `mobile`.
 - [Recall](https://www.recall.it/) - AI knowledge base that saves and summarizes articles, videos, podcasts, and PDFs and links them in a graph `free` `ai` `mobile`.
