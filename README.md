@@ -63,7 +63,7 @@ Assistants that answer questions and search over your own documents, notes, and 
 - [PrivateGPT](https://github.com/zylon-ai/private-gpt) - Open-source API layer for privately chatting with your documents using local models, with no data leaving your machine `oss` `selfhost` `local` `free` `ai`.
 - [Quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG framework for building assistants that answer questions over your own files and data `oss` `selfhost` `free` `ai`.
 - [Saga](https://saga.so) - Workspace for notes, docs, and tasks with a built-in AI assistant that can answer across your pages `free` `ai`.
-- [Screenpipe](https://screenpipe.com) - Records screen and audio locally so people can search and ask AI about their computer history `local` `ai`.
+- [Screenpipe](https://screenpipe.com) - Records screen and audio locally so people can search and ask AI about their computer history. `local` `ai`
 - [Sider](https://sider.ai) - Browser AI sidebar that chats with the current page, your uploaded PDFs, and saved content across many models `free` `ai` `mobile`.
 
 ## Note-Taking & PKM Apps
