@@ -243,6 +243,7 @@ Plugins, publishing tools, and utilities that extend note-taking apps.
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview) - Query language and live views that index Markdown notes and their metadata inside Obsidian `oss` `local` `free`.
 - [Excalidraw for Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin) - Obsidian plugin for creating and embedding hand-drawn style sketches and diagrams in notes `oss` `local` `free`.
 - [Flowershow](https://flowershow.app/) - Publishes Markdown and Obsidian vaults as websites, self-hosted or through a hosted service ([source](https://github.com/datopian/flowershow)) `oss` `selfhost` `free`.
+- [GTD Brain for Obsidian](https://gtdbrain.com/connect/obsidian?source=awesome-second-brain) - Obsidian plugin that syncs a GTD vault two-way with a GTD Brain board also on web, Android, iOS, ChatGPT and Claude ([source](https://github.com/minosin/gtdbrain-obsidian)) `oss` `free` `mobile`.
 - [Obsidian Digital Garden](https://dg-docs.ole.dev/) - Obsidian plugin that publishes selected notes as a self-hosted digital garden website ([source](https://github.com/oleeskild/obsidian-digital-garden)) `oss` `selfhost` `free`.
 - [Obsidian Git](https://github.com/Vinzent03/obsidian-git) - Plugin that version-controls an Obsidian vault with automatic Git commit, pull, and push `oss` `local` `free`.
 - [Obsidian Kanban](https://github.com/mgmeyers/obsidian-kanban) - Obsidian plugin that creates Markdown-backed Kanban boards with draggable cards and lanes `oss` `local` `free`.
