@@ -132,6 +132,7 @@ Tools for saving articles, bookmarks, and highlights and resurfacing them later.
 - [MyMind](https://mymind.com/) - Private visual bookmarking app that uses AI to auto-tag and organize saved links, images, notes, and articles `paid` `ai` `mobile`.
 - [Notion Web Clipper](https://www.notion.com/web-clipper) - Notion's official browser extension for saving web pages into a Notion workspace `free`.
 - [Omnivore](https://github.com/omnivore-app/omnivore) - Open-source read-it-later and highlighting app; the hosted service closed in 2024 and the code is self-hostable `oss` `selfhost`.
+- [Orano](https://oranoai.com/) - Mobile app that saves Reels, YouTube videos, articles, and PDFs and turns each save into a structured project with summary, key takeaways, and ordered action tasks `free` `ai` `mobile`.
 - [Pinboard](https://pinboard.in/) - Minimal, privacy-focused bookmarking service with tags and an optional full-text archiving add-on `paid`.
 - [Raindrop.io](https://raindrop.io/) - Bookmark manager that saves links, articles, and media into taggable collections with search and archived copies `free` `mobile`.
 - [ReadGZH](https://readgzh.site/) - Converts public WeChat article links to Markdown through a hosted service for manual import into notes. `oss`
