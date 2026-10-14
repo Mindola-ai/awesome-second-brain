@@ -140,6 +140,7 @@ Tools for saving articles, bookmarks, and highlights and resurfacing them later.
 - [Recall](https://www.recall.it/) - AI knowledge base that saves and summarizes articles, videos, podcasts, and PDFs and links them in a graph `free` `ai` `mobile`.
 - [Save to Notion](https://www.savetonotion.so/) - Third-party browser extension that saves web pages and highlights into Notion databases with mapped properties `free`.
 - [Snipd](https://www.snipd.com/) - AI podcast player that captures highlight clips with transcript and summary and exports notes to note apps `free` `ai` `mobile`.
+- [SummarizAI](https://summarizai.ink/) - Chrome extension that turns YouTube videos into summaries, chapters, chat answers, and study flashcards on the watch page `free` `ai`.
 - [Wallabag](https://wallabag.org/) - Open-source, self-hostable read-it-later app that saves web pages into a clean reading view with tags ([source](https://github.com/wallabag/wallabag)) `oss` `selfhost` `free` `mobile`.
 - [Weava](https://www.weavatools.com/) - Research highlighter for web pages and PDFs with color-coded highlights, folders, annotations, and citations `free`.
 - [Web Highlights](https://web-highlights.com/) - Browser extension for highlighting and annotating web pages and PDFs with notes, tags, and AI summaries `free` `ai`.
