@@ -139,6 +139,7 @@ Tools for saving articles, bookmarks, and highlights and resurfacing them later.
 - [Readwise Reader](https://readwise.io/read) - Read-it-later app for articles, newsletters, RSS, PDFs, EPUBs, and videos, with highlighting and AI features `paid` `ai` `mobile`.
 - [Recall](https://www.recall.it/) - AI knowledge base that saves and summarizes articles, videos, podcasts, and PDFs and links them in a graph `free` `ai` `mobile`.
 - [Save to Notion](https://www.savetonotion.so/) - Third-party browser extension that saves web pages and highlights into Notion databases with mapped properties `free`.
+- [Screvi](https://screvi.com/) - Highlights manager and read-it-later app that imports Kindle, Kobo, and web highlights for daily review `paid` `mobile`.
 - [Snipd](https://www.snipd.com/) - AI podcast player that captures highlight clips with transcript and summary and exports notes to note apps `free` `ai` `mobile`.
 - [Wallabag](https://wallabag.org/) - Open-source, self-hostable read-it-later app that saves web pages into a clean reading view with tags ([source](https://github.com/wallabag/wallabag)) `oss` `selfhost` `free` `mobile`.
 - [Weava](https://www.weavatools.com/) - Research highlighter for web pages and PDFs with color-coded highlights, folders, annotations, and citations `free`.
