@@ -103,6 +103,7 @@ Open-source and self-hostable knowledge bases, note apps, and wikis.
 - [Dendron](https://www.dendron.so) - Open-source, Markdown-based note-taking extension for VS Code organized around hierarchical note schemas ([source](https://github.com/dendronhq/dendron)) `oss` `local` `free`.
 - [Docmost](https://docmost.com) - Open-source, self-hostable collaborative wiki and documentation platform with real-time editing and spaces ([source](https://github.com/docmost/docmost)) `oss` `selfhost` `free`.
 - [Foam](https://foambubble.github.io/foam/) - Open-source personal knowledge management extension for VS Code using Markdown, wikilinks, and graph views ([source](https://github.com/foambubble/foam)) `oss` `local` `free`.
+- [GFT Map](https://github.com/CoralLips/gft-map) - Local panel and agent skill for reviewing conversations as editable documents and decision maps. `oss` `selfhost` `ai`
 - [Joplin](https://joplinapp.org) - Open-source, offline-first note and to-do app with Markdown and end-to-end encrypted sync across desktop and mobile ([source](https://github.com/laurent22/joplin)) `oss` `selfhost` `local` `free` `mobile`.
 - [Logseq](https://logseq.com) - Open-source, local-first outliner for notes and knowledge graphs using Markdown or Org-mode with backlinks ([source](https://github.com/logseq/logseq)) `oss` `local` `free` `mobile`.
 - [Memos](https://usememos.com) - Lightweight, self-hosted note-taking service for quick Markdown capture with REST and gRPC APIs ([source](https://github.com/usememos/memos)) `oss` `selfhost` `free`.
