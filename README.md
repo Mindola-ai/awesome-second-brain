@@ -79,6 +79,7 @@ General note-taking and personal knowledge management applications.
 - [Evernote](https://evernote.com/) - Note-taking and organization app with web clipping, document search, tasks, and cross-device sync `free` `ai` `mobile`.
 - [Heptabase](https://heptabase.com/) - Visual whiteboard note app using an infinite canvas with reusable cards, links, PDF annotation, and AI `local` `paid` `ai` `mobile`.
 - [Ideaflow](https://www.ideaflow.io/) - Note-taking app focused on fast idea capture through text and voice, with AI-assisted organization `ai` `mobile`.
+- [LocArk](https://locark.com/) - Local-first workspace with free Markdown notes, password records and Inbox; Pro adds kanban and mind-map creation. `local` `free` `mobile`
 - [Microsoft OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app) - Microsoft's free-form digital notebook for typed, handwritten, and clipped notes, synced across devices `free` `mobile`.
 - [Napkin](https://napkin.one/) - iPhone app for capturing ideas and quotes, with AI curation that resurfaces and connects them `ai` `mobile`.
 - [Notion](https://www.notion.com/) - Block-based workspace combining notes, documents, databases, and AI in one editor `free` `ai` `mobile`.
