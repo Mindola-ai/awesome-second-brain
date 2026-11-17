@@ -84,6 +84,7 @@ General note-taking and personal knowledge management applications.
 - [Notion](https://www.notion.com/) - Block-based workspace combining notes, documents, databases, and AI in one editor `free` `ai` `mobile`.
 - [Nototo](https://nototo.app/) - Spatial note-taking app that arranges notes on a map-like canvas to build a visual memory palace.
 - [Obsidian](https://obsidian.md/) - Markdown-based note-taking app that stores files locally and links them into a graph, with community plugins `local` `free` `mobile`.
+- [Outsmart Notes](https://outsmartnotes.com) - Fast, private online notepad. Free for 5 notes — try it with no signup for 60 minutes. Pro adds a vault, wiki links, reminders & sync. `free`.
 - [Reflect](https://reflect.app/) - End-to-end encrypted networked note-taking app with backlinks, calendar sync, voice transcription, and AI `paid` `ai` `mobile`.
 - [RemNote](https://www.remnote.com/) - Note-taking app with built-in spaced-repetition flashcards, PDF annotation, and AI card generation `free` `ai` `mobile`.
 - [Roam Research](https://roamresearch.com/) - Note-taking tool built on a graph database with bidirectional links and daily notes for networked thought `paid` `mobile`.
