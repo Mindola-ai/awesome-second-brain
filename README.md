@@ -86,6 +86,7 @@ General note-taking and personal knowledge management applications.
 - [Obsidian](https://obsidian.md/) - Markdown-based note-taking app that stores files locally and links them into a graph, with community plugins `local` `free` `mobile`.
 - [Reflect](https://reflect.app/) - End-to-end encrypted networked note-taking app with backlinks, calendar sync, voice transcription, and AI `paid` `ai` `mobile`.
 - [RemNote](https://www.remnote.com/) - Note-taking app with built-in spaced-repetition flashcards, PDF annotation, and AI card generation `free` `ai` `mobile`.
+- [RoadMax](https://roadmax.dskforge.com/) - Desktop whiteboard for linking research notes to local PDFs, images, and spreadsheets `local`.
 - [Roam Research](https://roamresearch.com/) - Note-taking tool built on a graph database with bidirectional links and daily notes for networked thought `paid` `mobile`.
 - [Supernotes](https://supernotes.app/) - Note-taking app built around linked notecards with real-time collaboration, sharing, and AI features `free` `ai` `mobile`.
 - [Tana](https://tana.inc/) - Outliner that structures notes with supertags and fields, plus AI features and voice capture `free` `ai` `mobile`.
