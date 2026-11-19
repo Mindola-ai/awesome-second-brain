@@ -66,6 +66,7 @@ Assistants that answer questions and search over your own documents, notes, and 
 - [Saga](https://saga.so) - Workspace for notes, docs, and tasks with a built-in AI assistant that can answer across your pages `free` `ai`.
 - [Screenpipe](https://screenpipe.com) - Records screen and audio locally so people can search and ask AI about their computer history. `local` `ai`
 - [Sider](https://sider.ai) - Browser AI sidebar that chats with the current page, your uploaded PDFs, and saved content across many models `free` `ai` `mobile`.
+- [Zortex](https://zortex.me/en/install) - Gives an AI agent access to connected notes and app data from a local store. `ai`
 
 ## Note-Taking & PKM Apps
 
