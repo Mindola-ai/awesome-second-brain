@@ -80,6 +80,7 @@ General note-taking and personal knowledge management applications.
 - [Heptabase](https://heptabase.com/) - Visual whiteboard note app using an infinite canvas with reusable cards, links, PDF annotation, and AI `local` `paid` `ai` `mobile`.
 - [Ideaflow](https://www.ideaflow.io/) - Note-taking app focused on fast idea capture through text and voice, with AI-assisted organization `ai` `mobile`.
 - [Microsoft OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app) - Microsoft's free-form digital notebook for typed, handwritten, and clipped notes, synced across devices `free` `mobile`.
+- [mindmap.io](https://mindmap.io/) - Mindmap for developing ideas visually, where any node can be an AI chat with its branch as context `free` `ai`.
 - [Napkin](https://napkin.one/) - iPhone app for capturing ideas and quotes, with AI curation that resurfaces and connects them `ai` `mobile`.
 - [Notion](https://www.notion.com/) - Block-based workspace combining notes, documents, databases, and AI in one editor `free` `ai` `mobile`.
 - [Nototo](https://nototo.app/) - Spatial note-taking app that arranges notes on a map-like canvas to build a visual memory palace.
